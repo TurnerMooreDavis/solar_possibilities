@@ -1,0 +1,2 @@
+module SolarDataHelper
+end
